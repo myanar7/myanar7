@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working for Allianz
-- 🌱 I’m currently learning AR/VR and AI on Mobile Applications
+- 🔭 I’m currently working for Innovance
+- 🌱 Backend Engineering, Mobile Engineering
 - 📫 How to reach me: mustafayanar0007@gmail.com
